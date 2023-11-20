@@ -4,3 +4,5 @@ since on old console this would break compatibilities of the cfw i removed it an
 https://github.com/Alexyo21/CustomLuma3DS
 remember only new3ds version console...
 thanks to byebyesky
+to use it copy it as it is into /luma/sysmodules folder and enable load external modules and firmware in cofig menu.
+only new 3ds
