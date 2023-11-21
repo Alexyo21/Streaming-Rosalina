@@ -11,6 +11,7 @@ only new 3ds
 for building set enableenforcedebug and disabledbug on what you need, if you are Compiling debug set
 -DisableDebug: false
 -EnableEnforceDebug: true
+
 and compile with the flag 
 make all "DEBUG=1"
 
