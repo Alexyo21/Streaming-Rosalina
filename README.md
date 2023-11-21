@@ -12,10 +12,13 @@ for building set enableenforcedebug and disabledbug on what you need, if you are
 -DisableDebug: false
 -EnableEnforceDebug: true
 
-and compile with the flag 
+and compile with the flag
+ 
 make all "DEBUG=1"
 
-For release set that flags in the opposite way and compile with make all.
+For release set that flags in the opposite way and compile with
+
+ make all.
 
 discord link:
 https://discord.com/invite/qR2D3dq43b
