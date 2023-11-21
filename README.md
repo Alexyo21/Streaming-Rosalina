@@ -7,3 +7,6 @@ thanks to byebyesky
 
 * to use it copy it as it is into /luma/sysmodules folder and enable load external modules and firmware in cofig menu.
 only new 3ds
+
+discord link:
+https://discord.com/invite/qR2D3dq43b
