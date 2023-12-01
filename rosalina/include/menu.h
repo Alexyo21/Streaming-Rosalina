@@ -77,10 +77,10 @@ typedef struct Menu {
 } Menu;
 
 extern u32 menuCombo;
-extern u32 g_blockMenuOpen;
 extern bool isHidInitialized;
-extern bool rosalinaOpen;
 extern u32 mcuFwVersion;
+extern u32 g_blockMenuOpen;
+extern bool rosalinaOpen;
 
 // From main.c
 extern bool isN3DS;
