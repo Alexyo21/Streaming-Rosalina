@@ -202,7 +202,7 @@ void RosalinaMenu_ShowCredits(void)
                 "  and other people.\n\n"
                 "  Credits for this fork:\n"
                 "  DullPointer, Cooolgamer, PabloMK7, D0k3,\n"
-                "  ByebyeSky, Sono, Nutez, Core2Extreme\n"
+                "  ByebyeSky, Sono, Nutez, Core2Extreme, Popax21,\n"
                 "  Peach, Nikki, truedread, Aspargas2, Peppe,\n"
                 "  Simo, Manuele and all the people in his\n"
                 "  Homebrew Galaxy group and all the people\n"
